@@ -1,7 +1,6 @@
-# Codes
+This repository contains codes for the report "The Impact of Trade Liberalization on Gross Exports and Domestic Value Added", in the course "Trade Policy Analysis" taught by Davide Vurchio at the University of Tartu in fall 2022.
 
-This part contains 6 code files for the paper. 
-
+There are 6 code files. 
 
 _1_get_dva.do_: Get DVA from STATA icio command. 
 
